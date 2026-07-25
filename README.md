@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Jambhulkar</h1>
 
 <h3 align="center">
-Full-Stack Developer • Android Developer • B.Tech Computer Engineering Student
+Full-Stack Developer • Android Developer • Computer Engineering Student
 </h3>
 
 <p align="center">
@@ -9,7 +9,7 @@ Passionate about building scalable applications, solving real-world problems, an
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Android+Developer;MERN+Stack+Developer;B.Tech+Engineering+Student;AI+%26+Automation+Explorer;Open+Source+Enthusiast"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Android+Developer;MERN+Stack+Developer;AI+%26+Automation+Explorer;Open+Source+Enthusiast"/>
 </p>
 
 <p align="center">
@@ -21,8 +21,7 @@ Passionate about building scalable applications, solving real-world problems, an
 
 # 🚀 About Me
 
-- 🎓 Diploma in Computer Engineering (Completed)
-- 🎓 Pursuing B.Tech in Computer Engineering
+- 🎓 i am completed Diploma in Computer Engineering
 - 💻 Full-Stack Developer (MERN)
 - 📱 Android Application Developer
 - 🤖 Exploring AI & Automation
@@ -123,7 +122,6 @@ Passionate about building scalable applications, solving real-world problems, an
 </p>
 
 ---
-
 <p align="center">
 ⭐ If you like my work, consider giving a star to my repositories!
 </p>
