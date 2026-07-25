@@ -21,7 +21,7 @@ Passionate about building scalable applications, solving real-world problems, an
 
 # 🚀 About Me
 
-- 🎓 Diploma in Computer Engineering
+- 🎓 Diploma in Computer Engineering (Completed)
 - 💻 Full-Stack Developer (MERN)
 - 📱 Android Application Developer
 - 🤖 Exploring AI & Automation
