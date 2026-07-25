@@ -80,14 +80,6 @@ Passionate about building scalable applications, solving real-world problems, an
 
 ---
 
-# 🏆 LeetCode
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/adityaj143?theme=dark&font=Karma&ext=heatmap"/>
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
