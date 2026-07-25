@@ -22,12 +22,12 @@ Passionate about building scalable applications, solving real-world problems, an
 # 🚀 About Me
 
 - 🎓 Diploma in Computer Engineering
-- 💻 MERN Stack Developer
+- 💻 Full-Stack Developer (MERN)
 - 📱 Android Application Developer
 - 🤖 Exploring AI & Automation
-- 🌱 Learning System Design
-- 🚀 Passionate about Open Source
-- 🎯 Solving LeetCode Problems Daily
+- ☁️ Learning System Design & Cloud
+- 🚀 Open Source Enthusiast
+- 📈 Solving LeetCode Problems Daily
 
 ---
 
@@ -62,9 +62,9 @@ Passionate about building scalable applications, solving real-world problems, an
 # 🚀 Featured Projects
 
 | Project | Description | Tech |
-|----------|-------------|------|
-| 🎉 EventMate | Smart College Event Manager | MERN |
-| 💻 LeetCode Solutions | Auto Sync using GitHub Actions | Python |
+|---------|-------------|------|
+| [🎉 EventMate](https://github.com/adityaj143/EventMate) | Smart College Event Manager | MERN |
+| [💻 LeetCode Solutions](https://github.com/adityaj143/leetcode-solutions) | Auto Sync using GitHub Actions | Python |
 
 ---
 
@@ -99,10 +99,12 @@ Passionate about building scalable applications, solving real-world problems, an
 # 📌 Current Focus
 
 - 🔥 Full Stack Development
+- ⚡ Building scalable MERN applications
 - 📱 Android Development
 - 🤖 AI & Automation
 - 📚 Data Structures & Algorithms
 - ☁️ Cloud & Deployment
+- 🌍 Open Source Contributions
 
 ---
 
@@ -129,5 +131,8 @@ Passionate about building scalable applications, solving real-world problems, an
 </p>
 
 ---
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</p>
 
 <h3 align="center">💡 Code • Learn • Build • Repeat 🚀</h3>
