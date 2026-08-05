@@ -79,18 +79,6 @@ Passionate about building scalable applications, solving real-world problems, an
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=adityaj143&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=adityaj143&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 📌 Current Focus
 
 - 🔥 Full Stack Development
