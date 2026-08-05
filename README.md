@@ -79,14 +79,14 @@ Passionate about building scalable applications, solving real-world problems, an
 
 ---
 
-# 📈 Contribution Graph
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaj143&theme=tokyo-night&hide_border=true"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=adityaj143&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaj143&theme=tokyo-night&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=adityaj143&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
