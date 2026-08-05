@@ -85,6 +85,10 @@ Passionate about building scalable applications, solving real-world problems, an
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaj143&theme=tokyo-night&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaj143&theme=tokyo-night&hide_border=true" />
+</p>
+
 ---
 
 # 📌 Current Focus
