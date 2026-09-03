@@ -103,7 +103,7 @@ Passionate about building scalable applications, solving real-world problems, an
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/aditya-jambhulkar-3928a631a/">
+<a href="https://www.linkedin.com/in/aditya-jambhulkar/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
