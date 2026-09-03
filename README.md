@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Jambhulkar</h1>
+i<h1 align="center">Hi 👋, I'm Aditya Jambhulkar</h1>
 
 <h3 align="center">
 Full-Stack Developer • Android Developer • Computer Engineering Student
@@ -75,14 +75,6 @@ Passionate about building scalable applications, solving real-world problems, an
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/adityaj143?theme=dark&font=Karma&ext=heatmap"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaj143&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
