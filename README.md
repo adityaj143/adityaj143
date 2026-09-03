@@ -1,4 +1,4 @@
-i<h1 align="center">Hi 👋, I'm Aditya Jambhulkar</h1>
+<h1 align="center">Hi 👋, I'm Aditya Jambhulkar</h1>
 
 <h3 align="center">
 Full-Stack Developer • Android Developer • Computer Engineering Student
