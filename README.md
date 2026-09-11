@@ -122,7 +122,7 @@ Passionate about building scalable applications, solving real-world problems, an
   />
 </a>
 
-<a href="https://www.linkedin.com/in/aditya-jambhulkar/">
+<a href="https://www.linkedin.com/in/adityaj143/">
   <img
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
